@@ -14,7 +14,7 @@
     "rewarded": "ca-app-pub-3940256099942544/5224354917"
   },
   "facebook": {
-    "enabled": true,
+    "enabled": false,
     "banner": "",
     "native": "",
     "interstitial": "",
@@ -22,22 +22,22 @@
     "rewarded": ""
   },
   "interstitial": {
-    "enabled": true,
+    "enabled": false,
     "frequency": 3
   },
   "app_open": {
-    "enabled": true
+    "enabled": false
   },
   "rewarded": {
     "enabled": true
   },
   "placements": {
-    "home": "banner",
-    "devices": "native",
-    "analytics": "banner",
-    "sms": "native",
+    "home": "off",
+    "devices": "off",
+    "analytics": "off",
+    "sms": "off",
     "settings": "off",
-    "speed_test": "banner",
-    "wifi_settings": "banner"
+    "speed_test": "off",
+    "wifi_settings": "off"
   }
 }
