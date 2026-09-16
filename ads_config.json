@@ -14,10 +14,10 @@
     "rewarded": "ca-app-pub-3121968263547350/9838050853"
   },
   "facebook": {
-    "enabled": false,
-    "banner": "",
-    "native": "",
-    "interstitial": "",
+    "enabled": true,
+    "banner": "28355968014064902_28355986777396359",
+    "native": "28355968014064902_28355990224062681",
+    "interstitial": "28355968014064902_28355988380729532",
     "app_open": "",
     "rewarded": ""
   },
