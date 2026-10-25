@@ -1,11 +1,11 @@
 {
-  "ad_status": true,
+  "ad_status": false,
   "privacy_policy_url": "https://anagataarta.blogspot.com/p/privacy-policy-hilink.html",
   "email_feedback_and_report": "laksamanasukardi17@gmail.com",
   "main_ads": "admob",
   "backup_ads": "facebook",
   "admob": {
-    "enabled": true,
+    "enabled": false,
     "app_id": "ca-app-pub-3940256099942544~3347511713",
     "banner": "ca-app-pub-3121968263547350/8844533389",
     "native": "ca-app-pub-3121968263547350/1321266583",
@@ -14,7 +14,7 @@
     "rewarded": "ca-app-pub-3121968263547350/9838050853"
   },
   "facebook": {
-    "enabled": true,
+    "enabled": false,
     "banner": "28355968014064902_28355986777396359",
     "native": "28355968014064902_28355990224062681",
     "interstitial": "28355968014064902_28355988380729532",
