@@ -32,12 +32,12 @@
     "enabled": false
   },
   "placements": {
-    "home": "banner",
-    "devices": "native",
-    "analytics": "banner",
-    "sms": "native",
-    "settings": "banner",
-    "speed_test": "banner",
-    "wifi_settings": "banner"
+    "home": "off",
+    "devices": "off",
+    "analytics": "off",
+    "sms": "off",
+    "settings": "off",
+    "speed_test": "off",
+    "wifi_settings": "off"
   }
 }
