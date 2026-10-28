@@ -6,30 +6,30 @@
   "backup_ads": "facebook",
   "admob": {
     "enabled": false,
-    "app_id": "ca-app-pub-3940256099942544~3347511713",
-    "banner": "ca-app-pub-3121968263547350/8844533389",
-    "native": "ca-app-pub-3121968263547350/1321266583",
-    "interstitial": "ca-app-pub-3121968263547350/2825919948",
-    "app_open": "ca-app-pub-3121968263547350/6972319568",
-    "rewarded": "ca-app-pub-3121968263547350/9838050853"
+    "app_id": "",
+    "banner": "",
+    "native": "",
+    "interstitial": "",
+    "app_open": "",
+    "rewarded": ""
   },
   "facebook": {
     "enabled": false,
-    "banner": "28355968014064902_28355986777396359",
-    "native": "28355968014064902_28355990224062681",
-    "interstitial": "28355968014064902_28355988380729532",
+    "banner": "",
+    "native": "",
+    "interstitial": "",
     "app_open": "",
     "rewarded": ""
   },
   "interstitial": {
-    "enabled": true,
+    "enabled": false,
     "frequency": 3
   },
   "app_open": {
-    "enabled": true
+    "enabled": false
   },
   "rewarded": {
-    "enabled": true
+    "enabled": false
   },
   "placements": {
     "home": "banner",
